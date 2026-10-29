@@ -1,0 +1,452 @@
+window.__CONFIG = {
+  "business": {
+    "name": "Lo de Su",
+    "short_name": "Lo de Su",
+    "tagline": "Lo de Su - Salta",
+    "description": "Tu base en Lo de Su para explorar Salta.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "Salta · Pje. Ceballos 964",
+    "title_line1": "Descubrí",
+    "title_em": "Lo de Su",
+    "title_line2": "",
+    "subtitle": "Tu refugio en Salta después de recorrer todo el día."
+  },
+  "location": {
+    "address": "Pje. Ceballos 964, A4400 Salta",
+    "district": "Salta",
+    "city": "Salta",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "city",
+    "map_query": "Pje. Ceballos 964, A4400 Salta, Salta",
+    "map_embed": "https://maps.google.com/maps?q=Pje.+Ceballos+964%2C+A4400+Salta%2C+Salta&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "Salta. El mejor lugar para quedarte en la zona.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/5493874888316",
+    "phone": "+5493874888316",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/Lo+de+Su/data=!4m10!3m9!1s0x941bc309cdf72e23:0x32a8aaf826e5398b!5m2!4m1!1i2!8m2!3d-24.8019644!4d-65.4130566!16s%2Fg%2F11h810gkl3!19sChIJIy73zQnDG5QRiznlJviqqDI?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/Lo+de+Su/data=!4m10!3m9!1s0x941bc309cdf72e23:0x32a8aaf826e5398b!5m2!4m1!1i2!8m2!3d-24.8019644!4d-65.4130566!16s%2Fg%2F11h810gkl3!19sChIJIy73zQnDG5QRiznlJviqqDI?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Te contamos",
+    "title": "Así es Lo de Su.",
+    "paragraphs": [
+      "En Lo de Su nos encanta recibir viajeros de todo el mundo. Tenemos todo lo que necesitás: WiFi, pileta, parrilla, cocina y una ubicación top en Salta. Escribinos y te contamos más."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "Te contestamos el mismo día",
+    "Sin cargos extra por Booking ni otros",
+    "Conocemos la zona, te damos la posta"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Tu cama te espera",
+      "description": "Descansá que mañana hay cosas por conocer.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "Redes sin drama",
+      "description": "Subite todo, mandá ubicación, estate conectado.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "Cerca de todo",
+      "description": "La mejor ubicación para recorrer sin gastar de más.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Federico T.",
+      "rating": 4,
+      "text": "Hermosa experiencia. Cómodo, bien ubicado y con una atención que se nota hecha con cariño."
+    },
+    {
+      "author": "Carolina R.",
+      "rating": 5,
+      "text": "Súper recomendable. Te sentís como en casa desde el primer momento. Volveremos sin dudas."
+    },
+    {
+      "author": "Diego F.",
+      "rating": 4,
+      "text": "Muy buena relación calidad-precio y una atención personalizada que no encontrás en otros lados."
+    },
+    {
+      "author": "Joaquín H.",
+      "rating": 5,
+      "text": "Excelente lugar para descansar después de recorrer. Recomendadísimo, volvemos seguro."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Se puede cancelar la reserva?",
+      "answer": "Somos flexibles, escribinos con tiempo y lo resolvemos."
+    },
+    {
+      "question": "¿Hay toallas?",
+      "answer": "Consultanos, generalmente tenemos para prestar."
+    },
+    {
+      "question": "¿Se puede fumar?",
+      "answer": "En los espacios al aire libre, sí. Adentro no."
+    },
+    {
+      "question": "¿Tienen aire acondicionado?",
+      "answer": "Sí, en verano estás fresquito sin problema."
+    },
+    {
+      "question": "¿Cómo me muevo por la ciudad?",
+      "answer": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+    }
+  ],
+  "footer": {
+    "description": "Lo de Su",
+    "copyright": "© 2026 Lo de Su. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "Lo de Su",
+        "short_name": "Lo de Su",
+        "tagline": "Lo de Su - Accommodation",
+        "description": "Comfortable rooms and good vibes at Lo de Su, Salta.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "Salta · Pje. Ceballos 964",
+        "title_line1": "Welcome to",
+        "title_em": "Lo de Su",
+        "title_line2": "",
+        "subtitle": "Your base to explore Salta with everything you need."
+      },
+      "about": {
+        "eyebrow": "What we do",
+        "title": "This is Lo de Su.",
+        "paragraphs": [
+          "Welcome to Lo de Su, right in the heart of Salta. Our hostel has a pool, BBQ, full kitchen and spaces to relax. We're a small hostel with great vibes, where every traveler is welcome."
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "Salta. The best place to stay in the area."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "Is the area safe?",
+          "answer": "Yes, it's a quiet neighborhood. Travelers recommend it."
+        },
+        {
+          "question": "Is there WiFi?",
+          "answer": "Yep, free WiFi everywhere. Upload your stories without worry."
+        },
+        {
+          "question": "How far is the beach/downtown?",
+          "answer": "Just a few blocks, about a 5-minute walk."
+        },
+        {
+          "question": "Is there a pool?",
+          "answer": "Yes! In summer it's the best spot to cool off after sightseeing."
+        },
+        {
+          "question": "How do I get around the city?",
+          "answer": "Reach out and we'll tell you the best transport options and what to visit nearby."
+        }
+      ],
+      "trust_bar": [
+        "Instant replies on WhatsApp",
+        "What you see is what you pay",
+        "We'll recommend the best spots in town"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "David O.",
+          "rating": 5,
+          "text": "Excellent place to rest after a day out. Highly recommend, we'll be back for sure."
+        },
+        {
+          "author": "Emma L.",
+          "rating": 5,
+          "text": "Highly recommended. Feels like home away from home. We'll definitely be back."
+        },
+        {
+          "author": "Lucas P.",
+          "rating": 4,
+          "text": "Great value and personalized attention you don't find anywhere else."
+        },
+        {
+          "author": "Anna M.",
+          "rating": 5,
+          "text": "Beautiful place, close to everything. The hosts helped us with everything we needed."
+        }
+      ],
+      "footer": {
+        "description": "Lo de Su",
+        "copyright": "© 2026 Lo de Su. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LodgingBusiness",
+        "name": "Lo de Su",
+        "description": "Tu base en Lo de Su para explorar Salta.",
+        "url": "",
+        "telephone": "+5493874888316",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/Lo+de+Su/data=!4m10!3m9!1s0x941bc309cdf72e23:0x32a8aaf826e5398b!5m2!4m1!1i2!8m2!3d-24.8019644!4d-65.4130566!16s%2Fg%2F11h810gkl3!19sChIJIy73zQnDG5QRiznlJviqqDI?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Pje. Ceballos 964, A4400 Salta",
+          "addressLocality": "Salta",
+          "addressCountry": "AR"
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Tu cama te espera",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Redes sin drama",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Cerca de todo",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Se puede cancelar la reserva?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Somos flexibles, escribinos con tiempo y lo resolvemos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay toallas?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Consultanos, generalmente tenemos para prestar."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se puede fumar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "En los espacios al aire libre, sí. Adentro no."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Tienen aire acondicionado?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, en verano estás fresquito sin problema."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cómo me muevo por la ciudad?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+            }
+          }
+        ]
+      }
+    ]
+  }
+};
